@@ -41,6 +41,7 @@ Paste them directly into your **Among Us** game folder.
 > → Search for `Among Us.exe`  
 > → Right-click it  
 > → `Open file location`
+> → https://www.youtube.com/watch?v=qCeoEIy_vrw
 
 > **Xbox App**  
 > Right-click **Among Us** in your Library  
